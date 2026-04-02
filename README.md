@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revoradev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.evora_/)
 
-![evoradev GitHub stats](https://github-readme-stats.vercel.app/api?username=evoradev&show_icons=true&theme=radical)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=evoradev&show_icons=true&theme=radical)
 
 ## Tecnologias que uso 🖥️💻📱
 
@@ -19,6 +19,6 @@
 
 <br/>
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=evoradev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evoradev&layout=compact&theme=radical)
 
 <br/>
